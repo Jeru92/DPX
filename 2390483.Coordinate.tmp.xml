@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" _path="C:\Users\367366\Desktop\OCR\Input\2390483.Coordinate.tmp.xml" _pageTotal="1" _ocrId="IP_10.142.172.90_PID73500_I1">
+  <pg _id="1" _hDpi="300" _vDpi="300" _ht="3300" _wdth="2550" _ocrId="IP_10.142.172.90_PID73500_I1">
+    <zone isTable="true">
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="105" _y1="308" _x2="236" _y2="388" _conf="80 70 70" _isBold="true" _wdHt="80">LSI</wd>
+            </line>
+            <line>
+              <wd _x1="91" _y1="454" _x2="137" _y2="478" _conf="0 0 0" _wdHt="24">333</wd>
+              <wd _x1="149" _y1="454" _x2="216" _y2="478" _conf="0 0 0 0 0" _wdHt="24">Earle</wd>
+              <wd _x1="226" _y1="454" _x2="349" _y2="478" _conf="10 0 0 0 0 10 0 0" _wdHt="24">Ovington</wd>
+            </line>
+            <line>
+              <wd _x1="91" _y1="492" _x2="233" _y2="515" _conf="0 0 0 10 0 0 0 10 0 0" _wdHt="23">Uniondale,</wd>
+              <wd _x1="243" _y1="492" _x2="305" _y2="515" _conf="0 0 0 0" _wdHt="23">N.Y.</wd>
+            </line>
+            <line>
+              <wd _x1="92" _y1="530" _x2="161" _y2="553" _conf="0 0 10 0 20" _wdHt="23">(516)</wd>
+              <wd _x1="170" _y1="530" _x2="294" _y2="546" _conf="0 0 20 20 0 0 0 0" _wdHt="16">484-6070</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="289" _y1="308" _x2="316" _y2="330" _conf="70 80" _wdHt="22">Iv</wd>
+              <wd _x1="331" _y1="308" _x2="626" _y2="329" _conf="80 80 80 80 80 80 80 80 80 80 80 80 60 60 60 80 80" _wdHt="21">YL.A...0..."....I</wd>
+              <wd _x1="2161" _y1="311" _x2="2309" _y2="335" _conf="0 0 0 0 0 0 0 0 0 0" _wdHt="24">Remittance</wd>
+              <wd _x1="2318" _y1="311" _x2="2430" _y2="335" _conf="0 0 0 0 0 0 0 0" _wdHt="24">Address:</wd>
+            </line>
+            <line>
+              <wd _x1="279" _y1="345" _x2="586" _y2="386" _conf="10 0 0 0 10 10 10 0 0 0" _wdHt="41">INTEGRATED</wd>
+              <wd _x1="608" _y1="345" _x2="805" _y2="386" _conf="0 0 0 0 0 0" _wdHt="41">SUPPLY</wd>
+              <wd _x1="1081" _y1="333" _x2="1398" _y2="383" _conf="0 20 20 0 0 0 0" _isBold="true" _wdHt="50">INVOICE</wd>
+              <wd _x1="2013" _y1="349" _x2="2126" _y2="373" _conf="10 0 0 0 0" _wdHt="24">WESCO</wd>
+              <wd _x1="2135" _y1="349" _x2="2266" _y2="373" _conf="0 0 0 0 0 0 0 0 0 0" _wdHt="24">Integrated</wd>
+              <wd _x1="2277" _y1="349" _x2="2375" _y2="373" _conf="0 0 0 0 0 0 0" _wdHt="24">Supply,</wd>
+              <wd _x1="2385" _y1="350" _x2="2431" _y2="373" _conf="30 0 0 0" _wdHt="23">Inc.</wd>
+            </line>
+            <line>
+              <wd _x1="2207" _y1="388" _x2="2262" _y2="410" _conf="10 10 10 0" _wdHt="22">P.O.</wd>
+              <wd _x1="2275" _y1="388" _x2="2328" _y2="410" _conf="0 0 0" _wdHt="22">Box</wd>
+              <wd _x1="2336" _y1="388" _x2="2431" _y2="410" _conf="0 0 0 10 0 0" _wdHt="22">642565</wd>
+            </line>
+            <line>
+              <wd _x1="2075" _y1="424" _x2="2216" _y2="447" _conf="0 0 0 0 0 0 0 0 0 0 0" _wdHt="23">Pittsburgh,</wd>
+              <wd _x1="2226" _y1="425" _x2="2268" _y2="447" _conf="0 0" _wdHt="22">PA</wd>
+              <wd _x1="2279" _y1="425" _x2="2431" _y2="442" _conf="10 0 10 10 20 20 10 0 0 0" _wdHt="17">15264-2565</wd>
+            </line>
+            <line>
+              <wd _x1="357" _y1="454" _x2="427" _y2="478" _conf="0 10 0 0 10" _wdHt="24">Blvd,</wd>
+              <wd _x1="439" _y1="454" _x2="503" _y2="478" _conf="0 0 0 0 0" _wdHt="24">Suite</wd>
+              <wd _x1="514" _y1="454" _x2="560" _y2="478" _conf="0 0 0" _wdHt="24">608</wd>
+            </line>
+            <line>
+              <wd _x1="319" _y1="492" _x2="394" _y2="515" _conf="10 0 0 0 0" _wdHt="23">11553</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="121" _y1="609" _x2="203" _y2="637" _conf="0 0 0 0" _isBold="true" _wdHt="28">Page</wd>
+              <wd _x1="217" _y1="609" _x2="273" _y2="637" _conf="0 0 0" _isBold="true" _wdHt="28">No.</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="467" _y1="608" _x2="544" _y2="637" _conf="0 0 0 0" _isBold="true" _wdHt="29">Ship</wd>
+              <wd _x1="556" _y1="608" _x2="615" _y2="637" _conf="0 0 0" _isBold="true" _wdHt="29">Via</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1001" _y1="609" _x2="1112" _y2="637" _conf="0 0 0 0 0" _isBold="true" _wdHt="28">Terms</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1438" _y1="608" _x2="1577" _y2="637" _conf="0 0 0 0 0 0 0" _isBold="true" _wdHt="29">Shipped</wd>
+              <wd _x1="1590" _y1="609" _x2="1671" _y2="637" _conf="0 0 0 0" _isBold="true" _wdHt="28">Date</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1797" _y1="608" _x2="1924" _y2="637" _conf="10 0 10 0 10 0 0" _isBold="true" _wdHt="29">Invoice</wd>
+              <wd _x1="1935" _y1="609" _x2="2015" _y2="637" _conf="0 0 0 0" _isBold="true" _wdHt="28">Date</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="2161" _y1="609" _x2="2285" _y2="637" _conf="0 0 0 0 0 0 0" _isBold="true" _wdHt="28">Invoice</wd>
+              <wd _x1="2299" _y1="609" _x2="2355" _y2="637" _conf="0 0 0" _isBold="true" _wdHt="28">No.</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="176" _y1="668" _x2="195" _y2="697" _conf="0" _isBold="true" _wdHt="29">1</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="850" _y1="670" _x2="934" _y2="698" _conf="0 0 0" _isBold="true" _wdHt="28">NET</wd>
+              <wd _x1="969" _y1="668" _x2="1020" _y2="697" _conf="0 0" _isBold="true" _wdHt="29">90</wd>
+              <wd _x1="1055" _y1="668" _x2="1166" _y2="697" _conf="0 0 0 0" _isBold="true" _wdHt="29">days</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1469" _y1="667" _x2="1667" _y2="697" _conf="10 10 10 10 60 0 0" _isBold="true" _wdHt="30">6/21/22</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1821" _y1="667" _x2="2020" _y2="697" _conf="0 10 0 0 0 0 0" _isBold="true" _wdHt="30">6/22/22</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="2146" _y1="667" _x2="2343" _y2="697" _conf="10 0 0 0 0 0 0" _isBold="true" _wdHt="30">1212840</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="649" _y1="719" _x2="708" _y2="746" _conf="20 20 20 30" _isBold="true" _wdHt="27">Bill</wd>
+              <wd _x1="720" _y1="719" _x2="764" _y2="746" _conf="30 20" _isBold="true" _wdHt="27">To</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1836" _y1="719" _x2="1910" _y2="746" _conf="20 50 50 30" _isBold="true" _wdHt="27">Ship</wd>
+              <wd _x1="1924" _y1="719" _x2="1969" _y2="746" _conf="30 20" _isBold="true" _wdHt="27">To</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="117" _y1="766" _x2="257" _y2="796" _conf="0 0 0 0 0" _isBold="true" _wdHt="30">61109</wd>
+            </line>
+            <line>
+              <wd _x1="116" _y1="817" _x2="319" _y2="846" _conf="0 0 0 0 0 0 0" _isBold="true" _wdHt="29">PATHEON</wd>
+              <wd _x1="350" _y1="817" _x2="730" _y2="846" _conf="0 0 0 0 0 0 0 0 0 0 0 0 0" _isBold="true" _wdHt="29">MANUFACTURING</wd>
+              <wd _x1="763" _y1="817" _x2="992" _y2="846" _conf="0 0 0 0 0 0 0 0" _isBold="true" _wdHt="29">SERVICES</wd>
+            </line>
+            <line>
+              <wd _x1="116" _y1="866" _x2="171" _y2="895" _conf="0 40" _isBold="true" _wdHt="29">PO</wd>
+              <wd _x1="203" _y1="866" _x2="289" _y2="895" _conf="0 0 0" _isBold="true" _wdHt="29">BOX</wd>
+              <wd _x1="321" _y1="864" _x2="462" _y2="894" _conf="0 0 0 0 0" _isBold="true" _wdHt="30">40017</wd>
+            </line>
+            <line>
+              <wd _x1="116" _y1="1013" _x2="317" _y2="1042" _conf="0 0 0 0 0 0 0" _wdHt="29">COLLEGE</wd>
+              <wd _x1="352" _y1="1013" _x2="573" _y2="1042" _conf="0 0 0 0 0 0 0 0" _wdHt="29">STATION,</wd>
+              <wd _x1="615" _y1="1013" _x2="671" _y2="1042" _conf="0 0" _wdHt="29">TX</wd>
+              <wd _x1="706" _y1="1011" _x2="845" _y2="1041" _conf="0 0 0 0 0" _wdHt="30">77842</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1410" _y1="766" _x2="1583" _y2="796" _conf="10 20 20 10 10 10" _isBold="true" _wdHt="30">61109A</wd>
+            </line>
+            <line>
+              <wd _x1="1409" _y1="817" _x2="1612" _y2="846" _conf="0 0 0 0 0 0 0" _isBold="true" _wdHt="29">PATHEON</wd>
+              <wd _x1="1643" _y1="817" _x2="2024" _y2="846" _conf="0 0 0 0 0 0 0 0 0 0 0 0 0" _isBold="true" _wdHt="29">MANUFACTURING</wd>
+              <wd _x1="2057" _y1="817" _x2="2285" _y2="846" _conf="0 0 0 0 0 0 0 0" _isBold="true" _wdHt="29">SERVICES</wd>
+              <wd _x1="2321" _y1="817" _x2="2405" _y2="846" _conf="0 0 0" _isBold="true" _wdHt="29">LLC</wd>
+            </line>
+            <line>
+              <wd _x1="1410" _y1="864" _x2="1521" _y2="894" _conf="0 0 0 0" _isBold="true" _wdHt="30">5900</wd>
+              <wd _x1="1555" _y1="866" _x2="1730" _y2="895" _conf="0 0 0 0 0 0" _isBold="true" _wdHt="29">MARTIN</wd>
+              <wd _x1="1762" _y1="866" _x2="1936" _y2="895" _conf="0 0 0 0 0 0" _isBold="true" _wdHt="29">LUTHER</wd>
+              <wd _x1="1967" _y1="866" _x2="2083" _y2="895" _conf="0 0 0 0" _isBold="true" _wdHt="29">KING</wd>
+              <wd _x1="2115" _y1="866" _x2="2190" _y2="894" _conf="0 0 0" _isBold="true" _wdHt="28">JR.</wd>
+              <wd _x1="2231" _y1="866" _x2="2318" _y2="895" _conf="0 0 0" _isBold="true" _wdHt="29">HWY</wd>
+            </line>
+            <line>
+              <wd _x1="1408" _y1="915" _x2="1544" _y2="943" _conf="0 0 0 0 0" _isBold="true" _wdHt="28">BLDG.</wd>
+              <wd _x1="1586" _y1="913" _x2="1788" _y2="933" _conf="30 30 10 0 0 0 0" _isBold="true" _wdHt="20">4-WESCO</wd>
+              <wd _x1="1822" _y1="915" _x2="2083" _y2="944" _conf="0 0 0 0 0 0 0 0 20" _isBold="true" _wdHt="29">STOCKROOM</wd>
+              <wd _x1="2087" _y1="913" _x2="2225" _y2="933" _conf="20 0 0 0 10" _isBold="true" _wdHt="20">-4051</wd>
+            </line>
+            <line>
+              <wd _x1="1408" _y1="964" _x2="1544" _y2="993" _conf="0 0 0 0 0" _isBold="true" _wdHt="29">ATTN:</wd>
+              <wd _x1="1586" _y1="962" _x2="1698" _y2="992" _conf="0 0 0 0" _wdHt="30">Lisa</wd>
+              <wd _x1="1732" _y1="962" _x2="1932" _y2="992" _conf="0 0 0 0 0 30 30" _wdHt="30">Boswell</wd>
+            </line>
+            <line>
+              <wd _x1="1408" _y1="1013" _x2="1720" _y2="1042" _conf="0 0 0 0 0 0 0 0 0 0 0" _wdHt="29">GREENVILLE,</wd>
+              <wd _x1="1761" _y1="1013" _x2="1817" _y2="1042" _conf="0 0" _wdHt="29">NC</wd>
+              <wd _x1="1851" _y1="1011" _x2="1992" _y2="1041" _conf="0 0 0 0 0" _wdHt="30">27834</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="209" _y1="1073" _x2="281" _y2="1101" _conf="0 0 0" _isBold="true" _wdHt="28">Our</wd>
+              <wd _x1="292" _y1="1073" _x2="400" _y2="1101" _conf="0 0 0 0 0" _isBold="true" _wdHt="28">Order</wd>
+              <wd _x1="410" _y1="1074" _x2="468" _y2="1102" _conf="0 10 0" _isBold="true" _wdHt="28">No.</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line />
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="863" _y1="1058" _x2="1892" _y2="1101" _conf="70 80 70 60 60 60 70 0 0 0 0 0 0 0 0" _isBold="true" _wdHt="43">i41111LCustomer</wd>
+              <wd _x1="1904" _y1="1074" _x2="2012" _y2="1101" _conf="0 0 0 0 0" _isBold="true" _wdHt="27">Order</wd>
+              <wd _x1="2025" _y1="1074" _x2="2081" _y2="1101" _conf="0 0 0" _isBold="true" _wdHt="27">No.</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="117" _y1="1158" _x2="463" _y2="1188" _conf="0 0 0 0 0 0 0 0 20 20 0 0" _wdHt="30">045274889.00</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1409" _y1="1158" _x2="1697" _y2="1188" _conf="0 0 0 0 0 0 0 0 0 0" _wdHt="30">4500284789</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="267" _y1="1249" _x2="344" _y2="1278" _conf="0 0 0 0" _isBold="true" _wdHt="29">Item</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="552" _y1="1249" _x2="601" _y2="1277" _conf="40 30" _isBold="true" _wdHt="28">Ln</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="936" _y1="1249" _x2="1137" _y2="1277" _conf="0 0 0 10 0 0 0 0 0 0 0" _isBold="true" _wdHt="28">Description</wd>
+              <wd _x1="1256" _y1="1276" _x2="1298" _y2="1285" _conf="80" _isBold="true" _wdHt="9">_</wd>
+              <wd _x1="1397" _y1="1276" _x2="1416" _y2="1285" _conf="80" _isBold="true" _wdHt="9">_</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1458" _y1="1276" _x2="1494" _y2="1285" _conf="80" _isBold="true" _wdHt="9">_</wd>
+              <wd _x1="1533" _y1="1249" _x2="1602" _y2="1278" _conf="40 30 20" _isBold="true" _wdHt="29">Qty</wd>
+              <wd _x1="1796" _y1="1250" _x2="1869" _y2="1277" _conf="0 0 0 0" _isBold="true" _wdHt="27">Unit</wd>
+              <wd _x1="1881" _y1="1250" _x2="1971" _y2="1277" _conf="0 0 10 0 0" _isBold="true" _wdHt="27">Price</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="2179" _y1="1249" _x2="2321" _y2="1277" _conf="0 0 0 0 0 0" _isBold="true" _wdHt="28">Amount</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="117" _y1="1304" _x2="433" _y2="1335" _conf="0 0 0 0 0 0 0 0 0 0 0" _wdHt="31">10000001006</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="557" _y1="1304" _x2="608" _y2="1335" _conf="0 0" _wdHt="31">01</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="643" _y1="1304" _x2="787" _y2="1335" _conf="30 30 30 50 30" _wdHt="31">BX108</wd>
+              <wd _x1="820" _y1="1306" _x2="1083" _y2="1325" _conf="0 0 30 30 20 20 20 20 20" _wdHt="19">TRI-POWER</wd>
+              <wd _x1="1113" _y1="1306" _x2="1142" _y2="1337" _conf="0" _wdHt="31">V</wd>
+              <wd _x1="1172" _y1="1306" _x2="1288" _y2="1336" _conf="0 0 0 0" _wdHt="30">BELT</wd>
+            </line>
+            <line>
+              <wd _x1="643" _y1="1355" _x2="877" _y2="1385" _conf="0 0 0 0 0 0 0 0" _wdHt="30">GOODYEAR</wd>
+              <wd _x1="908" _y1="1355" _x2="965" _y2="1385" _conf="0 0" _wdHt="30">OR</wd>
+              <wd _x1="996" _y1="1355" _x2="1139" _y2="1385" _conf="10 10 10 10 30" _wdHt="30">GATES</wd>
+              <wd _x1="1160" _y1="1337" _x2="1347" _y2="1386" _conf="70 70 70 70" _wdHt="49">IMAM</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1644" _y1="1305" _x2="1668" _y2="1335" _conf="0" _wdHt="30">2</wd>
+              <wd _x1="1821" _y1="1305" _x2="2052" _y2="1335" _conf="0 10 0 0 0 10 10 0" _wdHt="30">26.370PC</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="1337" _x2="1690" _y2="1373" _conf="80 80 80 80 80 80 80 80" _wdHt="36">11.11222</wd>
+              <wd _x1="1789" _y1="1355" _x2="2033" _y2="1386" _conf="80 80 70 80 70 70 70 80 70" _isBold="true" _wdHt="31">ffssuratg</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="1435" _x2="1690" _y2="1471" _conf="60 60 70 70" _isBold="true" _wdHt="36">MINN</wd>
+              <wd _x1="1740" _y1="1435" _x2="2033" _y2="1471" _conf="70 70 70 70 70 70 70" _isBold="true" _wdHt="36">MMINIMM</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="1535" _x2="1690" _y2="1569" _conf="70 80 80 80" _isBold="true" _wdHt="34">MMIN</wd>
+              <wd _x1="1740" _y1="1535" _x2="2033" _y2="1569" _conf="30 50 60 50 50 50" _isBold="true" _wdHt="34">------</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="1633" _x2="1641" _y2="1667" _conf="60 60" _isBold="true" _wdHt="34">WM</wd>
+              <wd _x1="1740" _y1="1633" _x2="2033" _y2="1667" _conf="30 50 60 50 50 50" _isBold="true" _wdHt="34">------</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="1731" _x2="1690" _y2="1765" _conf="70 80 80 80" _isBold="true" _wdHt="34">MMIN</wd>
+              <wd _x1="1740" _y1="1731" _x2="2033" _y2="1765" _conf="70 70 70 70 70 70 80 60 80 80 80" _isBold="true" _wdHt="34">.111111MOMM</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="1831" _x2="1690" _y2="1863" _conf="80 80 80 80 80 80 80 70 70 70 70 80 80 80 80 80" _isBold="true" _wdHt="32">1111111111111111</wd>
+              <wd _x1="1789" _y1="1831" _x2="2033" _y2="1863" _conf="80 80 80 80 80 80 80 80 80 80 80 70 70 70 70 80 70 70 70 70 70 80 80 80 80 80" _isBold="true" _wdHt="32">11111111111111111111111111</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="1929" _x2="1690" _y2="1978" _conf="60 60 60" _isBold="true" _wdHt="49">MSS</wd>
+              <wd _x1="1789" _y1="1929" _x2="2033" _y2="1978" _conf="60 60 60 60" _isBold="true" _wdHt="49">MSS=</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2027" _x2="1690" _y2="2076" _conf="60 60 60" _isBold="true" _wdHt="49">MSS</wd>
+              <wd _x1="1789" _y1="2027" _x2="2033" _y2="2076" _conf="50 50 60 60" _isBold="true" _wdHt="49">MOM=</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2127" _x2="1690" _y2="2176" _conf="70 70 70 80 80" _isBold="true" _wdHt="49">IIIMM</wd>
+              <wd _x1="1740" _y1="2127" _x2="2033" _y2="2176" _conf="40 60 60 60 70 70" _isBold="true" _wdHt="49">5MSS==</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2225" _x2="1690" _y2="2274" _conf="80 80 80 70 70" _isBold="true" _wdHt="49">IIIMM</wd>
+              <wd _x1="1740" _y1="2225" _x2="2033" _y2="2274" _conf="40 60 60 60 70 70" _isBold="true" _wdHt="49">5MSS==</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2323" _x2="1690" _y2="2372" _conf="80 80 80 70 70" _isBold="true" _wdHt="49">IIIMM</wd>
+              <wd _x1="1740" _y1="2323" _x2="2033" _y2="2372" _conf="40 60 60 60 70 70" _isBold="true" _wdHt="49">5MSS==</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2421" _x2="1690" _y2="2472" _conf="60 60 60" _isBold="true" _wdHt="51">MSS</wd>
+              <wd _x1="1740" _y1="2421" _x2="2033" _y2="2472" _conf="40 60 60 60 70 70" _isBold="true" _wdHt="51">5NON==</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2521" _x2="1690" _y2="2570" _conf="60 60 60" _isBold="true" _wdHt="49">MSS</wd>
+              <wd _x1="1789" _y1="2521" _x2="2033" _y2="2570" _conf="60 60 60 60" _isBold="true" _wdHt="49">MEMO</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2619" _x2="1690" _y2="2668" _conf="60 60 60" _isBold="true" _wdHt="49">MSS</wd>
+              <wd _x1="1789" _y1="2619" _x2="2033" _y2="2668" _conf="60 60 60 60" _isBold="true" _wdHt="49">MEMO</wd>
+            </line>
+            <line>
+              <wd _x1="1544" _y1="2717" _x2="1690" _y2="2768" _conf="60 60 60" _isBold="true" _wdHt="51">NON</wd>
+              <wd _x1="1789" _y1="2717" _x2="2033" _y2="2768" _conf="60 60 50 60" _isBold="true" _wdHt="51">MEMO</wd>
+            </line>
+            <line>
+              <wd _x1="1446" _y1="2819" _x2="1690" _y2="2870" _conf="60 60 60 60" _isBold="true" _wdHt="51">AMON</wd>
+              <wd _x1="1789" _y1="2819" _x2="2033" _y2="2870" _conf="60 60 50 60" _isBold="true" _wdHt="51">MEMO</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="2262" _y1="1304" _x2="2404" _y2="1335" _conf="0 0 0 0 0" _wdHt="31">52.74</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="1337" _x2="2425" _y2="1373" _conf="80 80 80 70 70 70 70 70 70 80" _isBold="true" _wdHt="36">liamaiimm.</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="1435" _x2="2425" _y2="1471" _conf="70 70 70 70 70" _isBold="true" _wdHt="36">MMINI</wd>
+            </line>
+            <line>
+              <wd _x1="2083" _y1="1535" _x2="2425" _y2="1569" _conf="30 30 30 60 60 70 70" _isBold="true" _wdHt="34">---NMI=</wd>
+            </line>
+            <line>
+              <wd _x1="2083" _y1="1633" _x2="2425" _y2="1667" _conf="30 30 30 60 60 70 70" _isBold="true" _wdHt="34">---NMI=</wd>
+            </line>
+            <line>
+              <wd _x1="2083" _y1="1731" _x2="2425" _y2="1765" _conf="30 30 30 60 60 70 70" _isBold="true" _wdHt="34">---NMI=</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="1831" _x2="2425" _y2="1863" _conf="80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80" _isBold="true" _wdHt="32">11111111111111111111111</wd>
+            </line>
+            <line>
+              <wd _x1="2083" _y1="1929" _x2="2425" _y2="1978" _conf="30 30 30 50 50 40 40" _isBold="true" _wdHt="49">sills..</wd>
+            </line>
+            <line>
+              <wd _x1="2083" _y1="2027" _x2="2425" _y2="2076" _conf="30 30 30 50 50 40 40" _isBold="true" _wdHt="49">sal....</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2127" _x2="2425" _y2="2176" _conf="70 60 60" _isBold="true" _wdHt="49">=MN</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2225" _x2="2425" _y2="2274" _conf="70 60 60" _isBold="true" _wdHt="49">=MN</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2323" _x2="2425" _y2="2372" _conf="70 60 60" _isBold="true" _wdHt="49">=MN</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2421" _x2="2425" _y2="2472" _conf="70 60 60" _isBold="true" _wdHt="51">=MN</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2521" _x2="2425" _y2="2570" _conf="60 60 60 60" _isBold="true" _wdHt="49">MIMS</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2619" _x2="2425" _y2="2668" _conf="60 60 60 60" _isBold="true" _wdHt="49">MIMS</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2717" _x2="2425" _y2="2768" _conf="60 60 60" _isBold="true" _wdHt="51">NEM</wd>
+            </line>
+            <line>
+              <wd _x1="2230" _y1="2819" _x2="2425" _y2="2870" _conf="60 60 60" _isBold="true" _wdHt="51">NEM</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+    </zone>
+    <zone>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="708" _y1="2973" _x2="776" _y2="3002" _conf="0 0 0" _isBold="true" _wdHt="29">Sub</wd>
+            </line>
+          </para>
+        </cell>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="786" _y1="2973" _x2="878" _y2="3001" _conf="0 0 0 0 0" _isBold="true" _wdHt="28">Total</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+    </zone>
+    <zone>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="852" _y1="3019" _x2="993" _y2="3050" _conf="0 0 0 0 0" _isBold="true" _wdHt="31">52.74</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+    </zone>
+    <zone>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="1127" _y1="2973" _x2="1219" _y2="3001" _conf="0 0 0 0 0" _isBold="true" _wdHt="28">Total</wd>
+              <wd _x1="1231" _y1="2973" _x2="1317" _y2="3001" _conf="0 0 0 0 0" _isBold="true" _wdHt="28">Sales</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+    </zone>
+    <zone>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="2263" _y1="3019" _x2="2404" _y2="3050" _conf="0 0 10 0 0" _isBold="true" _wdHt="31">52.74</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+    </zone>
+    <zone>
+      <row>
+        <cell>
+          <para>
+            <line>
+              <wd _x1="703" _y1="3175" _x2="889" _y2="3203" _conf="0 0 0 0 0 0 0" _isBold="true" _wdHt="28">FREIGHT</wd>
+              <wd _x1="901" _y1="3175" _x2="988" _y2="3203" _conf="0 0 0" _isBold="true" _wdHt="28">AND</wd>
+              <wd _x1="1001" _y1="3175" _x2="1127" _y2="3203" _conf="0 0 0 0 0" _isBold="true" _wdHt="28">SALES</wd>
+              <wd _x1="1140" _y1="3175" _x2="1225" _y2="3203" _conf="0 0 0" _isBold="true" _wdHt="28">TAX</wd>
+              <wd _x1="1236" _y1="3175" _x2="1322" _y2="3203" _conf="0 0 0" _isBold="true" _wdHt="28">NOT</wd>
+              <wd _x1="1336" _y1="3175" _x2="1516" _y2="3203" _conf="0 0 0 10 0 0 0" _isBold="true" _wdHt="28">SUBJECT</wd>
+              <wd _x1="1529" _y1="3175" _x2="1586" _y2="3203" _conf="0 0" _isBold="true" _wdHt="28">TO</wd>
+              <wd _x1="1597" _y1="3175" _x2="1821" _y2="3203" _conf="0 0 0 0 0 0 0 0 0" _isBold="true" _wdHt="28">DISCOUNT.</wd>
+            </line>
+          </para>
+          <para>
+            <line>
+              <wd _x1="1158" _y1="3222" _x2="1367" _y2="3250" _conf="0 0 0 0 0 0 0 0" _isBold="true" _wdHt="28">ORIGINAL</wd>
+            </line>
+          </para>
+        </cell>
+      </row>
+    </zone>
+  </pg>
+</document>
